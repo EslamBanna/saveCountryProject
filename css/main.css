@@ -1,0 +1,87 @@
+body{
+    background-color: #E9EBEE;
+    font-family:serif;
+    font-weight: bold;
+}
+.ar{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+footer{
+    background: #343A40;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow:hidden;
+}
+textarea{
+    resize: none;
+    direction: rtl;
+}
+.card-header{
+    direction: rtl;
+}
+.card{
+    text-align: center;
+    direction: rtl;
+}
+.return{
+    color: white;
+    text-decoration: none;
+}
+.return:hover{
+    text-decoration: none;
+    color: white;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+ tr td{
+    border: 1px solid;
+     background-color: rgba(0,0,0,0.5);
+}
+th{
+    background-color: black;
+    color: white;
+}
+.end{
+    text-align: center;
+}
+aside{
+    width: 250px;
+    height: 550px;
+    float: left;
+    background-color:#343A40;
+    color: black;
+text-align:right;
+}
+.m{
+    color: white;
+    font-weight: bold;
+}
+.m:hover{
+    color: black;
+}
+form.roz{
+    display: inline;
+}
+
+.om{
+    margin-top: 30px;
+}
+.ar form{
+    margin-bottom: 15px;
+}
